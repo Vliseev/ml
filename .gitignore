@@ -107,14 +107,23 @@ ENV/
 
 # Idea
 *.idea
-<<<<<<< HEAD
-=======
-
-
->>>>>>> a15b9d7091eb48167953e419ebdfab6a261ee4ff
 
 5-data-analysis-applications/2_text/video/
 
 5-data-analysis-applications/1_1_time_series/example/monthly-australian-wine-sales\.csv
 
 6/ident/data/
+5-data-analysis-applications/1_1_time_series/_eeae8614d443727b8626d2db697ec75d_1-1.Prognozirovanie-vremennyh-ryadov.pdf
+5-data-analysis-applications/1_1_time_series/task/WAG_C_M.csv
+5-data-analysis-applications/1_1_time_series/task/best
+5-data-analysis-applications/1_1_time_series/task/best1
+5-data-analysis-applications/1_1_time_series/task/results
+"5-data-analysis-applications/1_1_time_series/task/\320\237\321\200\320\276\320\263\320\275\320\276\320\267\320\270\321\200\320\276\320\262\320\260\320\275\320\270\320\265 \321\203\321\200\320\276\320\262\320\275\321\217 \321\201\321\200\320\265\320\264\320\275\320\265\320\271 \320\267\320\260\321\200\320\260\320\261\320\276\321\202\320\275\320\276\320\271 \320\277\320\273\320\260\321\202\321\213 \320\262 \320\240\320\276\321\201\321\201\320\270\320\270 _ Coursera _ Coursera.pdf"
+5-data-analysis-applications/1_1_time_series/video/
+5-data-analysis-applications/2_text/_be1deaf1fbe7bd3b61ffde2d97f31e5c_smsspamcollection.zip
+"5-data-analysis-applications/2_text/\320\237\321\200\320\270\320\274\320\265\321\200\321\213 \320\267\320\260\320\264\320\260\321\207 \320\260\320\275\320\260\320\273\320\270\320\267\320\260 \321\202\320\265\320\272\321\201\321\202\320\276\320\262 _ Coursera.pdf"
+5-data-analysis-applications/4_2_recommend/coursera_sessions_test.txt
+5-data-analysis-applications/4_2_recommend/quiz_04_01_rec_1.md
+5-data-analysis-applications/4_2_recommend/quiz_04_02_rec_2.md
+
+*.pdf
