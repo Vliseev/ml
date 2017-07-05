@@ -24,6 +24,9 @@ var/
 .installed.cfg
 *.egg
 
+6/ident/data/capstone_user/*
+
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
@@ -109,3 +112,9 @@ ENV/
 
 
 >>>>>>> a15b9d7091eb48167953e419ebdfab6a261ee4ff
+
+5-data-analysis-applications/2_text/video/
+
+5-data-analysis-applications/1_1_time_series/example/monthly-australian-wine-sales\.csv
+
+6/ident/data/
