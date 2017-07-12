@@ -139,8 +139,10 @@ ENV/
 
 #temp
 *~
-
+*answer*
 >>>>>>> a15b9d7091eb48167953e419ebdfab6a261ee4ff
 >>>>>>> 70d4993a23986efe2dab590e4f207ff08233007c
 
 6/ident/week1/Untitled\.ipynb
+
+6/ident/week1/prepare_dataset\.ipynb
