@@ -24,15 +24,13 @@ var/
 .installed.cfg
 *.egg
 
-<<<<<<< HEAD
 6/ident/data/capstone_user/*
 
-=======
+
 
 5-data-analysis-applications/2_computer_vision/task/2/data/test/*
 5-data-analysis-applications/2_computer_vision/task/2/data/train/*
 5-data-analysis-applications/2_computer_vision/task/2/data/vgg16_weights.npz
->>>>>>> 70d4993a23986efe2dab590e4f207ff08233007c
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -89,7 +87,7 @@ celerybeat-schedule
 # dotenv
 .env
 
-# Jupyter 
+# Jupyter
 *.DS_Store
 
 # virtualenv
@@ -114,7 +112,7 @@ ENV/
 
 # Idea
 *.idea
-<<<<<<< HEAD
+
 
 5-data-analysis-applications/2_text/video/
 
@@ -133,15 +131,11 @@ ENV/
 5-data-analysis-applications/4_2_recommend/quiz_04_02_rec_2.md
 
 *.pdf
-=======
-<<<<<<< HEAD
-=======
+
 
 #temp
 *~
 *answer*
->>>>>>> a15b9d7091eb48167953e419ebdfab6a261ee4ff
->>>>>>> 70d4993a23986efe2dab590e4f207ff08233007c
 
 6/ident/week1/Untitled\.ipynb
 
