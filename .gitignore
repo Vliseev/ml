@@ -145,3 +145,13 @@ ENV/
 
 6/ident/week_6/aclImdb/
 6/ident/week_6/news_data/
+
+6/ident/week_5/--final_regressor\.cache
+
+6/ident/week_6/submission
+
+*.vw
+
+*.cache
+
+6/ident/week_6/--bit_precision
