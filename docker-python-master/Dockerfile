@@ -340,7 +340,7 @@ RUN conda install -c anaconda cython
 RUN git clone git://github.com/JohnLangford/vowpal_wabbit.git && \
     cd vowpal_wabbit && make && make install
 # python wrapper
-RUN pip3 install --upgrade vowpalwabbit
+RUN pip install --upgrade vowpalwabbit
 
 
 RUN echo "alias py_kaggle=\"jupyter notebook --allow-root --no-browser --ip="*" --notebook-dir=/tmp/working\"">>~/.bashrc 
